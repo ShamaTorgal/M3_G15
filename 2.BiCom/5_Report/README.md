@@ -94,3 +94,10 @@
 |LL03	|Alram Activation	|switch pressed 3 time|	LEDs turned ON one by one in clockwise direction	|Passing|
 |LL04	|Alram deactivation	|switch pressed 3 time|	LEDs turned OFF one by one in clockwise direction	|Passing|
 |LL05	|Approach light	|switch pressed 4 time|	LEDs turned ON one by one in anticlockwise direction	|Passing|
+
+## 7. Output
+
+
+https://user-images.githubusercontent.com/98867688/157935446-244c0be9-680f-4781-931f-1fa504cf3eb9.mp4
+
+
