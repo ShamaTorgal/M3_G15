@@ -1,4 +1,12 @@
-# High Level Requirements
+# BiCom System
+#### Table of Content
+     1. Introduction
+     2. High Level Requirements
+     3. Low Level Requirements
+
+## 1. Introduction
+
+## 2. High Level Requirements
 
 |ID	|	Description|
 | --- | --- |
@@ -8,7 +16,7 @@
 |HLR_04	|Print Door status	It shall turn ON Leds in anti clockwise manner.|
 
 
-#  Low Level Requirements
+## 3. Low Level Requirements
 
 |ID|	Description|
 | --- | --- |
