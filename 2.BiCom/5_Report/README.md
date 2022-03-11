@@ -52,7 +52,10 @@
 
 ## 3. S.W.O.T
 
+![WhatsApp Image 2022-03-11 at 12 16 44](https://user-images.githubusercontent.com/98829310/157816983-06f5fef0-7dae-4118-9cb7-feddf844a05f.jpeg)
+
  ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project2/1_Requirements/5w1h.jpg)
+ 
 
 * WHO- People who have vehicle.
 * WHAT- It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities from a distance.
