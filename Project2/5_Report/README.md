@@ -61,9 +61,9 @@
 * WHY- For an easy use of vehicle and to ensure secuirity.
 * HOW- The system can be operated by just clicking a button .
 
-## Test Plan
+## 6. Test Plan
 
-### HIGH LEVEL TEST PLAN
+### 6.1 HIGH LEVEL TEST PLAN
 
 |TestID|	Description	| exp Input| exp	Output|	Status|
 | --- | --- | --- | --- | --- |
@@ -74,7 +74,7 @@
 |HL05	|Alram |Deactivation	switch pressed 3 times|	Alarm deactivated	|Passing|
 |HL06	|Approach |Light	switch pressed 4 times	|Approch Light Turned ON |	Passing|
 
-### LOW LEVEL TEST PLAN
+### 6.2 LOW LEVEL TEST PLAN
 
 |TestID|	Description	| exp Input	| exp Output|	Status|
 | --- | --- | --- | --- | --- |
