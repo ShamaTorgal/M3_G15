@@ -1,11 +1,11 @@
 # Remote keyless entry (RKE) system
-## Table of Content
+#### Table of Content
      1. Introduction
      2. High Level Requirements
      3. Low Level Requirements
 
      
-### 1. Introduction     
+## 1. Introduction     
 Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.
 
 RKE transmission requires two components - a transmitter and a receiver.
@@ -18,7 +18,7 @@ RKE operates by broadcasting radio waves on a particular frequency unidirectiona
 
 RKE systems implement encryption and rolling code algorithms to prevent car thieves from intercepting and spoofing the telegrams.
 
-### 2. High Level Requirements
+## 2. High Level Requirements
 
 |ID	| Description |
 | --- | --- |
@@ -27,7 +27,7 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 |HLR_03	|Alarm activation/deactivation	It shall turn On All Led’s in clockwise manner|
 |HLR_04	|Approach light	It shall turn OFF All led on in anti-clockwise manner.|
 
-###	3. Low Level Requirements
+## 3. Low Level Requirements
 
 |ID|	Description|
 | --- | --- |
