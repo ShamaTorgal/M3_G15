@@ -48,28 +48,14 @@
 
 ## 3. S.W.O.T
 
-![WhatsApp Image 2022-03-11 at 12 16 44](https://user-images.githubusercontent.com/98829310/157816983-06f5fef0-7dae-4118-9cb7-feddf844a05f.jpeg)
+ ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project2/1_Requirements/5w1h.jpg)
 
-## 4. 4W's 1H
-
-#### WHO
-
-People who have vehicle.
-#### WHAT
-
-It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities from a distance.
-#### WHEN
-
-Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
-#### WHERE
-
-It can be use anywhere
-#### WHY
-
-For an easy use of vehicle and to ensure secuirity.
-#### HOW
-
-The system can be operated by just clicking a button .
+* WHO- People who have vehicle.
+* WHAT- It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities from a distance.
+* WHEN- Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
+* WHERE- It can be use anywhere
+* WHY- For an easy use of vehicle and to ensure secuirity.
+* HOW- The system can be operated by just clicking a button .
 
 ## Test Plan
 
