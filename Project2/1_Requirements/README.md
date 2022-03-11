@@ -2,8 +2,8 @@
 #### Table of Content
      1. Introduction
      2. Requirements
-          1.1 High Level Requirements
-          1.2 Low Level Requirements
+          2.1 High Level Requirements
+          2.2 Low Level Requirements
      3. SWOT
      4. 4W's 1H
 
