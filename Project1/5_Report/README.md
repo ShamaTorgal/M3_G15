@@ -58,6 +58,8 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 
 ## 4. 4W's 1H
 
+ ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project1/1_Requirements/5W1H.png)
+
 #### WHO
 
 People who have vehicle.
