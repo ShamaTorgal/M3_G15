@@ -44,6 +44,14 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 |LLR_03	|Pressing the switch three times	-It shall activate/deactivate the Alarm.|
 |LLR_04	|Pressing the switch four times	-It shall approach the ligh.|
 
+### 2.3 Features
+* Use to lock or unlock vehicles from a distance.
+* Small in size and handy too.
+* Have approach light functionality.
+* Keeps the vehicle secure.
+* Can activate/deactivate alarm of the vehicle
+* Have LEDs to indicate which functionality is currently performing.
+
 ## 3. S.W.O.T
 
 ![WhatsApp Image 2022-03-11 at 11 40 39](https://user-images.githubusercontent.com/98829310/157812599-6e424513-c305-40d6-a971-d1ec91013c27.jpeg)
