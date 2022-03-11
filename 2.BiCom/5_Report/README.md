@@ -63,7 +63,16 @@
 * WHEN- Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
 * WHERE- It can be use anywhere
 * WHY- For an easy use of vehicle and to ensure secuirity.
-* HOW- The system can be operated by just clicking a button .
+* HOW- The system can be operated by just clicking a button.
+
+## 5. Architecture
+
+![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/2.BiCom/2_Architecture/image3.jpg)
+
+![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/2.BiCom/2_Architecture/image4.jpg)
+
+![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/2.BiCom/2_Architecture/image5.jpg)
+
 
 ## 6. Test Plan
 
