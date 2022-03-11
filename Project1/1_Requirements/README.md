@@ -42,3 +42,24 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 
 ![WhatsApp Image 2022-03-11 at 11 40 39](https://user-images.githubusercontent.com/98829310/157812599-6e424513-c305-40d6-a971-d1ec91013c27.jpeg)
 
+## 4W's 1H
+
+WHO
+
+People who have vehicle.
+WHAT
+
+It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities from a distance.
+WHEN
+
+Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
+WHERE
+
+It can be use anywhere
+WHY
+
+For an easy use of vehicle and to ensure secuirity.
+HOW
+
+The system can be operated by just clicking a button .
+
