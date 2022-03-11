@@ -23,7 +23,9 @@ RKE operates by broadcasting radio waves on a particular frequency unidirectiona
 
 RKE systems implement encryption and rolling code algorithms to prevent car thieves from intercepting and spoofing the telegrams.
 
-## 1.1 High Level Requirements
+## 2. Requirements
+
+### 2.1 High Level Requirements
 
 |ID	| Description |
 | --- | --- |
@@ -32,7 +34,7 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 |HLR_03	|Alarm activation/deactivation	-It shall turn On All Led’s in clockwise manner|
 |HLR_04	|Approach light	-It shall turn OFF All led on in anti-clockwise manner.|
 
-## 1.2 Low Level Requirements
+### 2.2 Low Level Requirements
 
 |ID|	Description|
 | --- | --- |
