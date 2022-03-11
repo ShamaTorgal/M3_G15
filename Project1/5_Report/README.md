@@ -7,8 +7,9 @@
      3. SWOT
      4. 5W's 1H
      5. Architecture
-     
-
+     6. Test Plan
+         6.1 HIGH LEVEL TEST PLAN
+         6.2 LOW LEVEL TEST PLAN
      
 ## 1. Introduction     
  ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project1/1_Requirements/RKEsys.webp)
@@ -74,9 +75,9 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
  
  ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project1/2_Architecture/image2.jpg)
 
-## TestPlanAndOutput
+## 6. TestPlanAndOutput
 
-### HIGH LEVEL TEST PLAN
+### 6.1 HIGH LEVEL TEST PLAN
 |TestID	|Description	|exp Input	|exp Output| 	Status|
 | --- | --- | --- | --- | --- |
 |HL01	|Encryption	|Only authorized key can access the Car control	|Authorized key required to access the Car control|	Passing|
@@ -86,7 +87,7 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 |HL05	|Alram deactivation	|switch pressed 3 times|	Alarm deactivated|	Passing|
 |HL06	|Approach Light	|switch pressed 4 times	|Approch Light Turned ON	|Passing|
 
-### LOW LEVEL TEST PLAN
+### 6.2 LOW LEVEL TEST PLAN
 
 |TestID |	Description | exp	Input | exp	Output|Status|
 | --- | --- | --- | --- | --- |
