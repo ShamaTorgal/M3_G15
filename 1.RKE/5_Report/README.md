@@ -56,7 +56,7 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 
 ## 3. S.W.O.T
 
-![WhatsApp Image 2022-03-11 at 11 40 39](https://github.com/ShamaTorgal/M3_G15/blob/main/1.RKE/1_Requirements/5W1H.png)
+![WhatsApp Image 2022-03-11 at 11 40 39]()
 
 ## 4. 4W's 1H
 
@@ -71,9 +71,9 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 
 # 5. Architecture
 
- ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project1/2_Architecture/image1.jpg)
+ ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/1.RKE/2_Architecture/image1.jpg)
  
- ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project1/2_Architecture/image2.jpg)
+ ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/1.RKE/2_Architecture/image2.jpg)
 
 ## 6. TestPlanAndOutput
 
