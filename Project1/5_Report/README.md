@@ -6,6 +6,7 @@
          2.2 Low Level Requirements
      3. SWOT
      4. 5W's 1H
+     5. Architecture
      
 
      
@@ -66,6 +67,12 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 * WHERE- It can be use anywhere
 * WHY- For an easy use of vehicle and to ensure secuirity.
 * HOW- The system can be operated by just clicking a button .
+
+# 5. Architecture
+
+ ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project1/2_Architecture/image1.jpg)
+ 
+ ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project1/2_Architecture/image2.jpg)
 
 ## TestPlanAndOutput
 
