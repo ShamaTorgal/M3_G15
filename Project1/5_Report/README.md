@@ -60,24 +60,12 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 
  ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project1/1_Requirements/5W1H.png)
 
-#### WHO
-
-People who have vehicle.
-#### WHAT
-
-It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities from a distance.
-#### WHEN
-
-Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
-#### WHERE
-
-It can be use anywhere
-#### WHY
-
-For an easy use of vehicle and to ensure secuirity.
-#### HOW
-
-The system can be operated by just clicking a button.
+* WHO- People who have vehicle.
+* WHAT- It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities from a distance.
+* WHEN- Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
+* WHERE- It can be use anywhere
+* WHY- For an easy use of vehicle and to ensure secuirity.
+* HOW- The system can be operated by just clicking a button .
 
 ## TestPlanAndOutput
 
