@@ -69,9 +69,9 @@ For an easy use of vehicle and to ensure secuirity.
 
 The system can be operated by just clicking a button.
 
-# TestPlanAndOutput
+## TestPlanAndOutput
 
-## HIGH LEVEL TEST PLAN
+### HIGH LEVEL TEST PLAN
 |TestID	|Description	|exp Input	|exp Output| 	Status|
 | --- | --- | --- | --- | --- |
 |HL01	|Encryption	|Only authorized key can access the Car control	|Authorized key required to access the Car control|	Passing|
@@ -81,7 +81,7 @@ The system can be operated by just clicking a button.
 |HL05	|Alram deactivation	|switch pressed 3 times|	Alarm deactivated|	Passing|
 |HL06	|Approach Light	|switch pressed 4 times	|Approch Light Turned ON	|Passing|
 
-## LOW LEVEL TEST PLAN
+### LOW LEVEL TEST PLAN
 
 |TestID |	Description | exp	Input | exp	Output|Status|
 | --- | --- | --- | --- | --- |
