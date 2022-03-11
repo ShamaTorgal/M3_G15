@@ -6,6 +6,8 @@
 
 ## 1. Introduction
 
+ ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project2/1_Requirements/Bicomsys.jpg)
+
 ## 2. High Level Requirements
 
 |ID	|	Description|
