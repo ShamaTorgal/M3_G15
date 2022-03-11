@@ -7,6 +7,10 @@
           2.3 Features
      3. SWOT
      4. 4W's 1H
+     5. Architecture
+     6. Test plan 
+         6.1 High level Test Plan
+         6.2 Low level Test Plan
 
 ## 1. Introduction
 
