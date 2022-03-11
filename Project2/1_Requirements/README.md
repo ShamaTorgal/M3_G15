@@ -7,6 +7,11 @@
 ## 1. Introduction
 
  ![Block Diagram](https://github.com/ShamaTorgal/M3_G15/blob/main/Project2/1_Requirements/Bicomsys.jpg)
+ 
+* A BiCom system is the extention of the unidirectional RKE(Remote Keyless Entry) to bidirectional RKE system.
+* It displays various features like window status,alarm status,car battery info and door status.
+* It is basically a communication between the keyfob and car.
+* LEDs are used for signalling like if the blue switch is pressed all LEDs are ON at the same time which prints the window status of the car.
 
 ## 2. High Level Requirements
 
