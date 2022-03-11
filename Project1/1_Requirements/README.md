@@ -3,6 +3,8 @@
      1. Introduction
      2. High Level Requirements
      3. Low Level Requirements
+     4. SWOT
+     5. 4W's 1H
 
      
 ## 1. Introduction     
@@ -38,28 +40,28 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 |LLR_03	|Pressing the switch three times	-It shall activate/deactivate the Alarm.|
 |LLR_04	|Pressing the switch four times	-It shall approach the ligh.|
 
-## S.W.O.T
+## 4. S.W.O.T
 
 ![WhatsApp Image 2022-03-11 at 11 40 39](https://user-images.githubusercontent.com/98829310/157812599-6e424513-c305-40d6-a971-d1ec91013c27.jpeg)
 
-## 4W's 1H
+## 5. 4W's 1H
 
-WHO
+#### WHO
 
 People who have vehicle.
-WHAT
+#### WHAT
 
 It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities from a distance.
-WHEN
+#### WHEN
 
 Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
-WHERE
+#### WHERE
 
 It can be use anywhere
-WHY
+#### WHY
 
 For an easy use of vehicle and to ensure secuirity.
-HOW
+#### HOW
 
 The system can be operated by just clicking a button .
 
