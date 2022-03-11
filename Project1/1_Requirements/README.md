@@ -1,10 +1,11 @@
 # Remote keyless entry (RKE) system
 #### Table of Content
      1. Introduction
-     2. High Level Requirements
-     3. Low Level Requirements
-     4. SWOT
-     5. 4W's 1H
+     2. Requirements
+         1.1 High Level Requirements
+         1.2 Low Level Requirements
+     3. SWOT
+     4. 4W's 1H
 
      
 ## 1. Introduction     
@@ -22,7 +23,7 @@ RKE operates by broadcasting radio waves on a particular frequency unidirectiona
 
 RKE systems implement encryption and rolling code algorithms to prevent car thieves from intercepting and spoofing the telegrams.
 
-## 2. High Level Requirements
+## 1.1 High Level Requirements
 
 |ID	| Description |
 | --- | --- |
@@ -31,7 +32,7 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 |HLR_03	|Alarm activation/deactivation	-It shall turn On All Led’s in clockwise manner|
 |HLR_04	|Approach light	-It shall turn OFF All led on in anti-clockwise manner.|
 
-## 3. Low Level Requirements
+## 1.2 Low Level Requirements
 
 |ID|	Description|
 | --- | --- |
@@ -40,11 +41,11 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 |LLR_03	|Pressing the switch three times	-It shall activate/deactivate the Alarm.|
 |LLR_04	|Pressing the switch four times	-It shall approach the ligh.|
 
-## 4. S.W.O.T
+## 3. S.W.O.T
 
 ![WhatsApp Image 2022-03-11 at 11 40 39](https://user-images.githubusercontent.com/98829310/157812599-6e424513-c305-40d6-a971-d1ec91013c27.jpeg)
 
-## 5. 4W's 1H
+## 4. 4W's 1H
 
 #### WHO
 
