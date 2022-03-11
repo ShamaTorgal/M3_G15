@@ -32,3 +32,7 @@
 |LLR_03	|Pressing the switch three time -It shall print the car battery info.|
 |LLR_04	|Pressing the switch four times -It shall print the door status.|
 
+## S.W.O.T:
+
+![WhatsApp Image 2022-03-11 at 12 16 44](https://user-images.githubusercontent.com/98829310/157816983-06f5fef0-7dae-4118-9cb7-feddf844a05f.jpeg)
+
