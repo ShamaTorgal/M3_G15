@@ -4,6 +4,7 @@
      2. Requirements
           2.1 High Level Requirements
           2.2 Low Level Requirements
+          2.3 Features
      3. SWOT
      4. 4W's 1H
 
@@ -16,7 +17,7 @@
 * It is basically a communication between the keyfob and car.
 * LEDs are used for signalling like if the blue switch is pressed all LEDs are ON at the same time which prints the window status of the car.
 
-## Requirements
+## 2. Requirements
 
 ### 2.1 High Level Requirements
 
@@ -36,6 +37,14 @@
 |LLR_02|	Pressing switch two time	-It shall print the alarm status.|
 |LLR_03	|Pressing the switch three time -It shall print the car battery info.|
 |LLR_04	|Pressing the switch four times -It shall print the door status.|
+
+### 2.3 Features
+* Use to lock or unlock vehicles from a distance.
+* Small in size and handy too.
+* Have approach light functionality.
+* Keeps the vehicle secure.
+* Can activate/deactivate alarm of the vehicle
+* Have LEDs to indicate which functionality is currently performing.
 
 ## 3. S.W.O.T
 
