@@ -1,8 +1,11 @@
 # BiCom System
 #### Table of Content
      1. Introduction
-     2. High Level Requirements
-     3. Low Level Requirements
+     2. Requirements
+          1.1 High Level Requirements
+          1.2 Low Level Requirements
+     3. SWOT
+     4. 4W's 1H
 
 ## 1. Introduction
 
@@ -13,7 +16,9 @@
 * It is basically a communication between the keyfob and car.
 * LEDs are used for signalling like if the blue switch is pressed all LEDs are ON at the same time which prints the window status of the car.
 
-## 2. High Level Requirements
+## Requirements
+
+### 2.1 High Level Requirements
 
 |ID	|	Description|
 | --- | --- |
@@ -23,7 +28,7 @@
 |HLR_04	|Print Door status	-It shall turn ON Leds in anti clockwise manner.|
 
 
-## 3. Low Level Requirements
+### 2.2 Low Level Requirements
 
 |ID|	Description|
 | --- | --- |
@@ -32,7 +37,27 @@
 |LLR_03	|Pressing the switch three time -It shall print the car battery info.|
 |LLR_04	|Pressing the switch four times -It shall print the door status.|
 
-## S.W.O.T:
+## 3. S.W.O.T
 
 ![WhatsApp Image 2022-03-11 at 12 16 44](https://user-images.githubusercontent.com/98829310/157816983-06f5fef0-7dae-4118-9cb7-feddf844a05f.jpeg)
 
+## 4. 4W's 1H
+
+#### WHO
+
+People who have vehicle.
+#### WHAT
+
+It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities from a distance.
+#### WHEN
+
+Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
+#### WHERE
+
+It can be use anywhere
+#### WHY
+
+For an easy use of vehicle and to ensure secuirity.
+#### HOW
+
+The system can be operated by just clicking a button .
