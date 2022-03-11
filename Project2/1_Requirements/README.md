@@ -23,6 +23,6 @@
 |ID|	Description|
 | --- | --- |
 |LLR_01|	Pressing switch One time	It shall print the window status|
-||LLR_02|	Pressing switch two time	It shall print the alarm status.|
+|LLR_02|	Pressing switch two time	It shall print the alarm status.|
 |LLR_03	|Pressing the switch three time	It shall print the car battery info.|
 |LLR_04	|Pressing the switch four times	It shall print the door status.|
