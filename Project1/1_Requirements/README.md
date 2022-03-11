@@ -5,7 +5,7 @@
          1.1 High Level Requirements
          1.2 Low Level Requirements
      3. SWOT
-     4. 4W's 1H
+     4. 5W's 1H
 
      
 ## 1. Introduction     
