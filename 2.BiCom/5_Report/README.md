@@ -11,6 +11,7 @@
      6. Test plan 
          6.1 High level Test Plan
          6.2 Low level Test Plan
+     7. Output
 
 ## 1. Introduction
 
