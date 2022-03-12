@@ -6,6 +6,8 @@
           2.2 Low Level Requirements
      3. SWOT
      4. 5W's 1H
+        - Badges
+  
 
 ## 1. Introduction
 
