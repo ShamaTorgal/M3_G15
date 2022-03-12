@@ -55,5 +55,8 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 * WHEN- Whenever the user wants to lock or unlock the door of the vehicle and wants to use its other features.
 * WHERE- It can be use anywhere
 * WHY- For an easy use of vehicle and to ensure secuirity.
-* HOW- The system can be operated by just clicking a button .
+* HOW- The system can be operated by just clicking a button.
+
+## Badges 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4227175abfd346c49635377ae6a75923)](https://www.codacy.com/gh/ShamaTorgal/M3_G15/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShamaTorgal/M3_G15&amp;utm_campaign=Badge_Grade)
 
