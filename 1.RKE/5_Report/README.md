@@ -6,6 +6,7 @@
          2.2 Low Level Requirements
      3. SWOT
      4. 5W's 1H
+          - Badges
      5. Architecture
      6. Test Plan
          6.1 HIGH LEVEL TEST PLAN
