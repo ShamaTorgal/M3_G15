@@ -6,6 +6,8 @@ Individual work
 
 ## 2. BiCom System
 
+Individual work
+
 
 
 
