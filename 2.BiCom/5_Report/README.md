@@ -7,6 +7,7 @@
           2.3 Features
      3. SWOT
      4. 4W's 1H
+       - Badges
      5. Architecture
      6. Test plan 
          6.1 High level Test Plan
